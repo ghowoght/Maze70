@@ -1,0 +1,9 @@
+C:\Users\25503\source\repos\HeartMaze\HeartMaze\bin\Debug\HeartMaze.exe.config
+C:\Users\25503\source\repos\HeartMaze\HeartMaze\bin\Debug\HeartMaze.exe
+C:\Users\25503\source\repos\HeartMaze\HeartMaze\bin\Debug\HeartMaze.pdb
+C:\Users\25503\source\repos\HeartMaze\HeartMaze\obj\Debug\HeartMaze.HeartMaze.resources
+C:\Users\25503\source\repos\HeartMaze\HeartMaze\obj\Debug\HeartMaze.Properties.Resources.resources
+C:\Users\25503\source\repos\HeartMaze\HeartMaze\obj\Debug\HeartMaze.csproj.GenerateResource.cache
+C:\Users\25503\source\repos\HeartMaze\HeartMaze\obj\Debug\HeartMaze.csproj.CoreCompileInputs.cache
+C:\Users\25503\source\repos\HeartMaze\HeartMaze\obj\Debug\HeartMaze.exe
+C:\Users\25503\source\repos\HeartMaze\HeartMaze\obj\Debug\HeartMaze.pdb
